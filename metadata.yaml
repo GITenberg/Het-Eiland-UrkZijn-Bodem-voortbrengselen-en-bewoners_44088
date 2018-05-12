@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43233
     wikipedia: http://nl.wikipedia.org/wiki/Pieter_Harting_%28bioloog%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44088#Het-Eiland-UrkZijn-Bodem-voortbrengselen-en-bewoners
 gutenberg_issued: '2013-11-01'
 gutenberg_type: Text
 identifiers:
