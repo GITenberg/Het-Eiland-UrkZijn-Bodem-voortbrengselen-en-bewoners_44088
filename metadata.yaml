@@ -1,0 +1,28 @@
+_repo: Het-Eiland-UrkZijn-Bodem-voortbrengselen-en-bewoners_44088
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44088-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Harting, Pieter
+    alias: Harting, P. (Pieter)
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '43233'
+    url: http://www.gutenberg.org/2009/agents/43233
+    wikipedia: http://nl.wikipedia.org/wiki/Pieter_Harting_%28bioloog%29
+description: ''
+gutenberg_issued: '2013-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44088'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Urk (Netherlands)'
+- !lcc 'DJ'
+title: 'Het Eiland Urk: Zijn Bodem, voortbrengselen en bewoners'
+url: http://www.gutenberg.org/ebooks/44088
